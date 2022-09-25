@@ -1,5 +1,4 @@
-# jump-start-with-latex-gmastrorilli
-jump-start-with-latex-gmastrorilli created by GitHub Classroom
+# README 
 
-
-test to see if editing readme
+Add descripion for paper
+- one hashtag makes it a header
