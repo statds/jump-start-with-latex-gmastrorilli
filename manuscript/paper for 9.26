@@ -1,0 +1,26 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+
+%% preambleb
+\usepackage{amsmath}
+\usepackage[margin = 1in]{geometry}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{amsthm}
+\usepackage{hyperref}
+\usepackage{natbib}
+\usepackage{enumitem}
+\usepackage{setspace}
+
+%% metadata
+\title{Practice Due 9.26.22}
+\author{Ginamarie Mastrorilli
+}
+\date{September 26, 2022}
+
+\begin{document}
+\maketitle
+
+\section*{Math Expression}
+
+\begin{math}E=mc^2\end{math}
