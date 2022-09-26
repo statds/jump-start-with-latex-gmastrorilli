@@ -1,15 +1,3 @@
-%% figure
-
-pdf("cars.pdf", pointsize = 9, height = 4, width = 6)
-plot(dist ~ speed, data = cars,
-     xlab = "speed (mph)", ylab = "distance (feet)")
-dev.off()
-
-
-%% table
-
-
-
 library(xtable)
 
 n <- 10
@@ -19,3 +7,4 @@ dat <- data.frame(normal = rnorm(n),
 
 xtab <- xtable(dat, digits = c(0, 3, 0, 3))
 print(xtab, include.rownames = FALSE)
+
