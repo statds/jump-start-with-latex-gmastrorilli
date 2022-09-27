@@ -7,4 +7,3 @@ dat <- data.frame(normal = rnorm(n),
 
 xtab <- xtable(dat, digits = c(0, 3, 0, 3))
 print(xtab, include.rownames = FALSE)
-
