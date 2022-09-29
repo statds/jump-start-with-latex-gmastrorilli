@@ -1,0 +1,1 @@
+pdf("paper.pdf", pointsize = 9, height = 4, width = 6)
