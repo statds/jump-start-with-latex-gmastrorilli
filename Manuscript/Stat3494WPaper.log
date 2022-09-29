@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.29)  29 SEP 2022 15:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.29)  29 SEP 2022 15:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -423,7 +423,7 @@ Package rerunfilecheck Info: File `Stat3494WPaper.out' has not changed.
 Here is how much of TeX's memory you used:
  10208 strings out of 478268
  163205 string characters out of 5846347
- 554233 words of memory out of 5000000
+ 554228 words of memory out of 5000000
  28271 multiletter control sequences out of 15000+600000
  475893 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -438,7 +438,7 @@ local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/lo
 cal/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local
 /texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/
 texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Stat3494WPaper.pdf (7 pages, 138647 bytes).
+Output written on Stat3494WPaper.pdf (7 pages, 138642 bytes).
 PDF statistics:
  144 PDF objects out of 1000 (max. 8388607)
  111 compressed objects within 2 object streams
