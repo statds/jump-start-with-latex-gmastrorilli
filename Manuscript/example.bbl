@@ -1,0 +1,23 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Dwivedi, Mallawaarachchi, and
+  Alvarado}{Dwivedi et~al.}{2017}]{dwivedi2017analysis}
+Dwivedi, A.~K., I.~Mallawaarachchi, and L.~A. Alvarado (2017).
+\newblock Analysis of small sample size studies using nonparametric bootstrap
+  test with pooled resampling method.
+\newblock {\em Statistics in Medicine\/}~{\em 36\/}(14), 2187--2205.
+
+\bibitem[\protect\citeauthoryear{Wild, Roglic, Green, Sicree, and King}{Wild
+  et~al.}{2004}]{wild2004global}
+Wild, S., G.~Roglic, A.~Green, R.~Sicree, and H.~King (2004).
+\newblock Global prevalence of diabetes: {E}stimates for the year 2000 and
+  projections for 2030.
+\newblock {\em Diabetes Care\/}~{\em 27\/}(5), 1047--1053.
+
+\bibitem[\protect\citeauthoryear{Xie}{Xie}{2015}]{xie2015dynamic}
+Xie, Y. (2015).
+\newblock {\em Dynamic Documents with {R} and knitr\/} (2nd ed.).
+\newblock Boca Raton, Florida: Chapman and Hall/CRC.
+\newblock ISBN 978-1498716963.
+
+\end{thebibliography}
