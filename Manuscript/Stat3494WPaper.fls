@@ -2,7 +2,7 @@ PWD /Users/ginamastrorilli/Desktop/stat/jump-start-with-latex-gmastrorilli/Manus
 INPUT /usr/local/texlive/2022/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT Stat3494WPaper.tex
+INPUT /Users/ginamastrorilli/Desktop/stat/jump-start-with-latex-gmastrorilli/Manuscript/Stat3494WPaper.tex
 OUTPUT Stat3494WPaper.log
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
