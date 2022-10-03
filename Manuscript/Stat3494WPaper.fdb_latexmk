@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex Stat3494WPaper"] 1664480049 "Stat3494WPaper.aux" "Stat3494WPaper.bbl" "Stat3494WPaper" 1664824884
+["bibtex Stat3494WPaper"] 1664480049 "Stat3494WPaper.aux" "Stat3494WPaper.bbl" "Stat3494WPaper" 1664826481
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/chicago/chicago.bst" 1198629289 37416 2ae04276c51f11eda70770f4081293b7 ""
-  "Stat3494WPaper.aux" 1664824884 2346 3bfbeb885cb61ad56dca8cd4ca6c2e4c "pdflatex"
+  "Stat3494WPaper.aux" 1664826481 2346 3bfbeb885cb61ad56dca8cd4ca6c2e4c "pdflatex"
   "refs.bib" 1664479611 996 07e48ebccf2899cfc2ad64ef92cf45ec ""
   (generated)
   "Stat3494WPaper.bbl"
   "Stat3494WPaper.blg"
-["pdflatex"] 1664824882 "/Users/ginamastrorilli/Desktop/stat/jump-start-with-latex-gmastrorilli/Manuscript/Stat3494WPaper.tex" "Stat3494WPaper.pdf" "Stat3494WPaper" 1664824884
-  "/Users/ginamastrorilli/Desktop/stat/jump-start-with-latex-gmastrorilli/Manuscript/Stat3494WPaper.tex" 1664824881 3326 f6203275a2931f33142dfa26e6dcec76 ""
+["pdflatex"] 1664826480 "/Users/ginamastrorilli/Desktop/stat/jump-start-with-latex-gmastrorilli/Manuscript/Stat3494WPaper.tex" "Stat3494WPaper.pdf" "Stat3494WPaper" 1664826481
+  "/Users/ginamastrorilli/Desktop/stat/jump-start-with-latex-gmastrorilli/Manuscript/Stat3494WPaper.tex" 1664826479 3388 e04673241f6bf83db1b97d43d1002370 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -96,10 +96,10 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1664467243 2826443 e9f15c3f92c28835fa0aacd7b4063307 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "Stat3494WPaper.aux" 1664824884 2346 3bfbeb885cb61ad56dca8cd4ca6c2e4c "pdflatex"
+  "Stat3494WPaper.aux" 1664826481 2346 3bfbeb885cb61ad56dca8cd4ca6c2e4c "pdflatex"
   "Stat3494WPaper.bbl" 1664480049 981 79d733d030e93bbde1ebb0c7f98d42c2 "bibtex Stat3494WPaper"
-  "Stat3494WPaper.out" 1664824884 415 a2da40bc6b073a49d78286fdb82ec60d "pdflatex"
-  "Stat3494WPaper.tex" 1664824881 3326 f6203275a2931f33142dfa26e6dcec76 ""
+  "Stat3494WPaper.out" 1664826481 415 a2da40bc6b073a49d78286fdb82ec60d "pdflatex"
+  "Stat3494WPaper.tex" 1664826479 3388 e04673241f6bf83db1b97d43d1002370 ""
   "cars.pdf" 1664230348 6997 752196bd65f3623c2ee5f8539bec2ffd ""
   (generated)
   "Stat3494WPaper.aux"
